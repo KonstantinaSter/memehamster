@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(232, 158, 184);
+}
+
+.center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70vh;
+  }
+
+.audio{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.nowrap{
+    font-size: 30px;
+    text-align: center;
+    white-space: nowrap;
+}  
